@@ -11,4 +11,7 @@ Thumbs.db
 ehthumbs.db
 # Icon?
 
+# ENV
+.dir-env
+
 
