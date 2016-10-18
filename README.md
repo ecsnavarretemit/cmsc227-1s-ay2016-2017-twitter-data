@@ -7,4 +7,6 @@ Collection of data about:
 * Miram Defensor Santiago
 * Donald Trump
 
+Note: Requirement for the course, CMSC 227 Advance Database Systems.
+
 
