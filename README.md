@@ -1,4 +1,4 @@
-# cmsc227-twitter-data
+# CMSC 227 Twitter Data
 
 Collection of data about:
 
